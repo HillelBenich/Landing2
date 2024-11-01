@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(../../images/lebronbanner.avif);
+  color: whitesmoke;
+  padding: 100px 0;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
+
+.banner h2 {
+  font-size: 32px;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}
